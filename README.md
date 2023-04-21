@@ -1,6 +1,6 @@
 # XGBoost para clasificación: construyendo modelos precisos y eficientes
 
-https://mybinder.org/v2/gh/lfunderburk/xgboost-charla/HEAD?labpath=xgboost-charla.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfunderburk/xgboost-charla/HEAD?labpath=xgboost-charla.ipynb)
 
 Laura G Funderburk
 
